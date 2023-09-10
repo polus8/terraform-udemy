@@ -8,3 +8,4 @@ resource "aws_instance" "myec2vm" {
   }
 }
 
+// dodano nowy opis w gałęzi testowej
