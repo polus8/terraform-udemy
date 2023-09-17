@@ -13,4 +13,4 @@ provider "aws" {
   profile = "default"
 }
 
-// dodano w testowym
+// dodano w testowym testowanie desktopu
